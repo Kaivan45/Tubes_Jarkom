@@ -1,6 +1,6 @@
 # Tubes_Jarkom
 
-# 📡 Panduan Menjalankan Program Client-Server
+# Cara Menjalankan Program Client-Server
 
 Ikuti langkah-langkah berikut untuk menjalankan program ini dengan benar:
 
