@@ -17,6 +17,8 @@ Ikuti langkah-langkah berikut untuk menjalankan program ini dengan benar:
 
 3. **Jalankan Client**
    Buka terminal baru, lalu jalankan perintah:
+    ```bash
    py client.py <server_host> <server_port> <filename>
    contoh:
+     ```bash
    py client.py 192.168.4.43 8000 index.html
