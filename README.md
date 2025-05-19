@@ -16,6 +16,7 @@ Ikuti langkah-langkah berikut untuk menjalankan program ini dengan benar:
    py server.py
 
 3. **Jalankan Client**
-   Buka terminal baru, lalu jalankan perintah:
+   
+   Buka terminal, masuk ke direktori proyek, lalu jalankan:
     ```bash
    py client.py 192.162.4.43 8080 index.html
